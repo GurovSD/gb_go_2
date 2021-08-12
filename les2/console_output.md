@@ -4,5 +4,5 @@
 
 * Выполните сборку ваших предыдущих программ под операционную систему, отличающуюся от текущей. Проанализируйте вывод команды file для полученного исполняемого файла. Попробуйте запустить исполняемый файл *
 
-$ file a.out.exe
-a.out.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
+    $ file a.out.exe
+    a.out.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
